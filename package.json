@@ -1,0 +1,21 @@
+{
+  "name": "playwright_learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardiantrik-mts/playwright_learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardiantrik-mts/playwright_learn/issues"
+  },
+  "homepage": "https://github.com/ardiantrik-mts/playwright_learn#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
