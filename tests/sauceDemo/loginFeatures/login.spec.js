@@ -1,8 +1,8 @@
 const { test, expect } = require('@playwright/test')
 
 test('Login Test', async ({page}) => {
-    await page.goto('https://google.com')
-    await expect(page).toHaveTitle('Google')
+    await page.goto('https://saucedemo.com')
+    // await expect(page).toHaveTitle('Google')
 })
 
 // test('homepage has Playwright in title and get started link linking to the intro page', async ({ page }) => {
